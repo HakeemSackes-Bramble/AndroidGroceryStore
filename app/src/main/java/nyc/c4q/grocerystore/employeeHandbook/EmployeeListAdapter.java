@@ -32,7 +32,7 @@ class EmployeeListAdapter extends RecyclerView.Adapter{
         new EmployeeDescription("Yojana", R.drawable.yojana1),
         new EmployeeDescription("Taryn", R.drawable.taryn_selfie)*/
 
-
+        new EmployeeDescription("Hakeem", R.drawable.)
     );
 
     @Override
