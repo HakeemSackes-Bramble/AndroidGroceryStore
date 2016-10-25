@@ -14,7 +14,7 @@ import nyc.c4q.grocerystore.R;
 class EmployeeListAdapter extends RecyclerView.Adapter{
 
     private List<EmployeeDescription> mData = Arrays.asList(
-        /*new EmployeeDescription("Ashique", R.drawable.ashique),
+        new EmployeeDescription("Ashique", R.drawable.ashique),
         new EmployeeDescription("Nesada", R.drawable.nk),
         new EmployeeDescription("Lily", R.drawable.hui),
         new EmployeeDescription("Hyunjoo", R.drawable.hyunjoo),
@@ -30,9 +30,9 @@ class EmployeeListAdapter extends RecyclerView.Adapter{
         new EmployeeDescription("Jose G.", R.drawable.joseg),
         new EmployeeDescription("Akasha", R.drawable.aa_profile_pic),
         new EmployeeDescription("Yojana", R.drawable.yojana1),
-        new EmployeeDescription("Taryn", R.drawable.taryn_selfie)*/
+        new EmployeeDescription("Taryn", R.drawable.taryn_selfie),
 
-        new EmployeeDescription("Hakeem", R.drawable.)
+        new EmployeeDescription("Hakeem", R.drawable.hakeem)
     );
 
     @Override
